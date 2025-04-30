@@ -2,7 +2,27 @@
 This is a simple task management app made for small teams. You can create tasks, assign them to others, track progress, and stay organized.
 
 🌐 Live Demo - 
-👉 Click here to try the live app
+👉 
+![Screenshot (1093)](https://github.com/user-attachments/assets/a814305e-162d-4a39-be98-f65325334912)
+
+![Screenshot (1094)](https://github.com/user-attachments/assets/363ab663-d059-4745-b5a7-858009bbc463)
+
+![Screenshot (1095)](https://github.com/user-attachments/assets/0bb81096-a21a-4cfd-8da3-5ce3c2cd9ae8)
+
+![Screenshot (1096)](https://github.com/user-attachments/assets/1711483b-1431-4c6e-aafc-f4b5a0d6828c)
+
+![Screenshot (1097)](https://github.com/user-attachments/assets/ffdf7645-fbb6-4bed-8e31-dfe6a8847d93)
+
+![Screenshot (1098)](https://github.com/user-attachments/assets/394c851f-59ac-4324-8eb2-da09ea548d4f)
+
+![Screenshot (1099)](https://github.com/user-attachments/assets/e9b63bfe-3d4c-47b3-80ec-462a3248e0ff)
+
+![Screenshot (1100)](https://github.com/user-attachments/assets/1b7867f0-7801-415a-8e99-eeb99b59e175)
+
+![Screenshot (1101)](https://github.com/user-attachments/assets/f777e35a-29f8-4084-b4f1-82f1f881e647)
+
+![Screenshot (1102)](https://github.com/user-attachments/assets/ba429808-297c-425d-94b2-82e2bf6c7729)
+
 
 -----------
 
